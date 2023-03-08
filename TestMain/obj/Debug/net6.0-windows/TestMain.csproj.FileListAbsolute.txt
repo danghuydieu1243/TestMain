@@ -1,0 +1,17 @@
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\bin\Debug\net6.0-windows\TestMain.exe
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\bin\Debug\net6.0-windows\TestMain.deps.json
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\bin\Debug\net6.0-windows\TestMain.runtimeconfig.json
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\bin\Debug\net6.0-windows\TestMain.dll
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\bin\Debug\net6.0-windows\TestMain.pdb
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.csproj.AssemblyReference.cache
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.Form1.resources
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.csproj.GenerateResource.cache
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.AssemblyInfoInputs.cache
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.AssemblyInfo.cs
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.csproj.CoreCompileInputs.cache
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.dll
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\refint\TestMain.dll
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.pdb
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\TestMain.genruntimeconfig.cache
+D:\SinhVIen\Nam2HKII\Laptrinhwindow\Test1\TestMain\TestMain\obj\Debug\net6.0-windows\ref\TestMain.dll
